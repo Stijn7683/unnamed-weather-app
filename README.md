@@ -1,1 +1,1 @@
-You can donwload the android apk of my weather app on this repostory
+dart code is in the lib folder
