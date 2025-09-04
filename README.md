@@ -1,1 +1,1 @@
-dart code is in the lib folder
+made with Flutter 
